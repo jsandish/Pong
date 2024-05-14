@@ -21,12 +21,15 @@ Window.java: A JPanel subclass that renders the game graphics. It includes the g
 
 ### Player 1 (Left Paddle):
 Up Arrow: Move paddle up
+
 Down Arrow: Move paddle down
 
 ### Player 2 (Right Paddle):
 W: Move paddle up
+
 S: Move paddle down
 
 ### General Controls:
 Spacebar: Start the game (release the ball)
+
 Mouse Movement (Right Paddle): Move the right paddle by mouse position
