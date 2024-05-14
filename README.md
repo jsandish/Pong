@@ -16,3 +16,17 @@ Main.java: The main entry point for the game. It sets up the game window, initia
 Paddle.java: Represents the paddles in the game. It handles paddle movement and collision detection with the ball.
 
 Window.java: A JPanel subclass that renders the game graphics. It includes the game objects and HUD for display.
+
+## Controls
+
+### Player 1 (Left Paddle):
+Up Arrow: Move paddle up
+Down Arrow: Move paddle down
+
+### Player 2 (Right Paddle):
+W: Move paddle up
+S: Move paddle down
+
+### General Controls:
+Spacebar: Start the game (release the ball)
+Mouse Movement (Right Paddle): Move the right paddle by mouse position
